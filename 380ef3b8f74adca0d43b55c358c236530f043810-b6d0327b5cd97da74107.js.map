@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./node_modules/react-bootstrap/esm/CardDeck.js"],"names":[],"mappings":"ymoBAAA,gBACe,gBAAmB","file":"380ef3b8f74adca0d43b55c358c236530f043810-b6d0327b5cd97da74107.js","sourcesContent":["import createWithBsPrefix from './createWithBsPrefix';\nexport default createWithBsPrefix('card-deck');"],"sourceRoot":""}
